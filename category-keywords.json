@@ -1,0 +1,169 @@
+{
+  "version": "1.0.0",
+  "license": "MIT",
+  "description": "Keywords para categorização automática de transações bancárias no Brasil (PT-BR, EN, ES)",
+  "expense": [
+    {
+      "keywords": ["ifood", "ifd", "uber eats", "rappi", "iqf", "delivery", "i food", "ubereats", "loggi", "glovo", "aiqfome", "james", "quero delivery", "restaurante", "lanchonete", "padaria", "pizzaria", "hamburgueria", "açaí", "acai", "habib", "giraffas", "spoleto", "outback", "mcdonald", "burger king", "burguer king", "arcos dourados", "subway", "kfc", "domino", "papa john", "pizza hut", "starbucks", "café", "cafe", "coffee", "bobs", "sukiya", "taco bell", "five guys", "wendy", "arby", "chipotle", "panera", "food", "comida", "alimentação", "alimentacao", "refeição", "refeicao", "entrega", "pedido", "order"],
+      "categoryTerms": ["alimentação", "alimentacao", "food", "comida"]
+    },
+    {
+      "keywords": ["uber", "99", "lime", "bolt", "taxi", "cabify", "in drive", "indrive", "didimo", "táxi", "motoboy", "entregador", "ônibus", "onibus", "bus", "metro", "metrô", "trem", "bilhete único", "transporte público", "transporte publico", "bike", "bicicleta", "scooter", "patinete", "tembici", "yellow", "grow", "grab", "lyft", "ride"],
+      "categoryTerms": ["transporte", "transport"]
+    },
+    {
+      "keywords": ["posto", "shell", "ipiranga", "br", "combustível", "combustivel", "gasolina", "diesel", "etanol", "álcool", "alcool", "gnv", "ale", "vibra", "raizen", "petrobras", "petrobrás", "posto ipiranga", "posto shell", "posto br", "posto ale", "fuel", "combustible", "gas station", "gasolinera", "abastecimento", "abastecer"],
+      "categoryTerms": ["combustível", "combustivel", "fuel", "combustible"]
+    },
+    {
+      "keywords": ["netflix", "spotify", "youtube premium", "disney", "hbo", "prime video", "apple music", "deezer", "tidal", "amazon prime", "paramount", "star+", "star plus", "globoplay", "discovery+", "discovery plus", "canal", "canal+", "crunchyroll", "funimation", "hbo max", "max", "peacock", "finclass", "boosteroid", "abyanvidia", "apple tv", "apple tv+", "mubi", "audible", "kindle unlimited", "scribd", "evernote", "dropbox", "google one", "icloud", "onedrive", "adobe", "creative cloud", "microsoft 365", "office 365", "linkedin premium", "linkedin", "github", "github pro", "notion", "slack", "zoom", "teams", "chatgpt", "openai", "midjourney", "canva", "canva pro", "figma", "gympass", "classpass", "peloton", "headspace", "calm", "subscription", "assinatura", "assinaturas", "suscripción", "streaming", "premium", "plano", "plan"],
+      "categoryTerms": ["assinatura", "subscription", "suscripción", "suscripcion", "suscripciones"]
+    },
+    {
+      "keywords": ["supermercado", "extra", "pao de acucar", "carrefour", "atacadao", "atacadão", "assai", "walmart", "big", "bompreço", "bom preco", "super nosso", "zaffari", "angeloni", "condor", "super", "supermarket", "supermercado", "mercado", "grocery", "grupão", "grupao", "supercenter", "são luiz", "sao luiz", "muffato", "formato", "prezunic", "hiper", "hipermercado"],
+      "categoryTerms": ["supermercado", "supermarket"]
+    },
+    {
+      "keywords": ["amazon", "mercado livre", "magazine luiza", "americanas", "magalu", "shopee", "shein", "aliexpress", "alibaba", "wish", "casas bahia", "ponto frio", "submarino", "shoptime", "centauro", "decathlon", "netshoes", "dafiti", "nike", "adidas", "renner", "riachuelo", "c&a", "marisa", "fast shop", "kabum", "terabyte", "pichau", "shopping", "compras", "purchase", "e-commerce", "ecommerce", "marketplace", "loja", "store", "tienda"],
+      "categoryTerms": ["compras", "shopping"]
+    },
+    {
+      "keywords": ["nu seguro vida", "seguro", "insurance", "seguros", "nubank seguro"],
+      "categoryTerms": ["seguro", "insurance", "seguros"]
+    },
+    {
+      "keywords": ["nu seguro vida", "seguro", "insurance", "seguros", "nubank seguro"],
+      "categoryTerms": ["saúde", "saude", "health", "salud"]
+    },
+    {
+      "keywords": ["farmácia", "farmacia", "drogasil", "droga raia", "pague menos", "drogaria São Paulo", "ultrafarma", "drogaria", "clínica", "clinica", "hospital", "laboratório", "laboratorio", "consultório", "consultorio", "médico", "medico", "doctor", "dentista", "odontologia", "ortodontia", "ortopedia", "unimed", "amil", "sulamérica", "sulamerica", "bradesco saúde", "notre dame", "convênio", "convenio", "plano de saúde", "ótica", "otica", "lentes", "óculos", "oculos", "psicólogo", "psicologo", "terapia", "fisioterapia", "pharmacy", "drugstore", "health", "salud", "saúde", "saude", "medical"],
+      "categoryTerms": ["saúde", "saude", "health", "salud"]
+    },
+    {
+      "keywords": ["academia", "gym", "smart fit", "bio ritmo", "blue fit", "fórmula", "formula", "contour", "world fitness", "gympass", "classpass", "crossfit", "pilates", "yoga", "personal trainer", "personal", "treino", "fitness", "gimnasio"],
+      "categoryTerms": ["academia", "gym", "gimnasio"]
+    },
+    {
+      "keywords": ["cinema", "ingresso", "eventim", "sympla", "ticket", "cinemark", "kinoplex", "ucine", "cinesystem", "movie", "show", "festival", "concerto", "concierto", "teatro", "theater", "stand up", "comédia", "parque", "park", "parque de diversões", "diversão", "jogo", "game", "steam", "playstation", "xbox", "nintendo", "lazer", "recreation", "recreación", "recreacion", "entretenimento", "entretenimiento", "entertainment", "diversao", "fun"],
+      "categoryTerms": ["lazer", "recreation", "recreación", "recreacion"]
+    },
+    {
+      "keywords": ["conta de luz", "energia", "cemig", "cpfl", "enel", "light", "aes", "eletrobras", "eletropaulo", "ceb", "água", "agua", "sabesp", "sanepar", "copasa", "cagece", "caesb", "corsan", "casan", "água e saneamento", "internet", "vivo", "vivo easy", "claro", "oi", "tim", "net", "oi fibra", "vivo fibra", "claro fibra", "net virtua", "skype", "aluguel", "rent", "alquiler", "renta", "condomínio", "condominio", "condominium", "iptu", "imposto predial", "property tax", "gás", "gas", "ultragaz", "liquigás", "liquigas", "comgás", "comgas", "moradia", "housing", "vivienda", "home", "casa", "utilities", "utilidades", "serviços", "servicos"],
+      "categoryTerms": ["moradia", "housing", "vivienda"]
+    },
+    {
+      "keywords": ["oficina", "mecânica", "mecanica", "auto center", "autocenter", "troca de óleo", "troca de oleo", "filtro", "pneu", "pneus", "estacionamento", "parking", "estacionamiento", "lavagem", "lavagem de carro", "car wash", "guincho", "reboque", "tow", "seguro auto", "seguro de carro", "ipva", "licenciamento", "licenciamento veicular", "veículo", "veiculo", "vehicle", "vehículo", "vehiculo", "carro", "automóvel", "automovel", "car", "auto"],
+      "categoryTerms": ["veículo", "veiculo", "vehicle", "vehículo", "vehiculo"]
+    },
+    {
+      "keywords": ["curso", "escola", "universidade", "faculdade", "udemy", "coursera", "alura", "hotmart", "eduzz", "descomplica", "kroton", "estácio", "estacio", "uninter", "anhanguera", "pitágoras", "pitagoras", "cruzeiro do sul", "unopar", "matrícula", "matricula", "mensalidade escolar", "material escolar", "livro", "livros", "book", "books", "educação", "educacao", "education", "educación", "educacion", "ensino", "estudo", "study", "estudios"],
+      "categoryTerms": ["educação", "educacao", "education", "educación", "educacion"]
+    },
+    {
+      "keywords": ["hotel", "airbnb", "booking", "viagem", "travel", "viaje", "passagem", "flight", "voo", "aéreo", "aereo", "gol", "latam", "azul", "tam", "avianca", "copa", "decolar", "cvc", "123 milhas", "maxmilhas", "kayak", "expedia", "trip", "trivago", "hotels.com", "hostel", "pousada", "resort", "vacation", "vacaciones"],
+      "categoryTerms": ["viagem", "travel", "viaje"]
+    },
+    {
+      "keywords": ["fatura", "cartão", "cartao", "credit card", "tarjeta", "nubank", "inter", "c6", "itau", "itaú", "bradesco", "santander", "banco do brasil", "caixa", "caixa econômica", "banco", "card", "cartão de crédito", "cartao de credito", "pagamento fatura", "fatura cartão", "anualidade", "anuidade", "taxa cartão", "taxa cartao"],
+      "categoryTerms": ["cartões", "cartoes", "credit card", "tarjeta"]
+    },
+    {
+      "keywords": ["imposto", "tax", "impuesto", "iof", "irpf", "ir", "irrf", "inss", "contribuição", "contribuicao", "social", "iptu", "ipva", "imposto predial", "das", "gps", "simples nacional", "mei", "imposto de renda", "income tax", "impuesto sobre la renta", "receita federal", "fazenda", "tributação", "tributacao"],
+      "categoryTerms": ["imposto", "tax", "impuestos", "impuesto"]
+    },
+    {
+      "keywords": ["taxa", "taxas", "fee", "fees", "tarifa", "tarifas", "multa", "juros de atraso", "tarifa bancária", "tarifa bancaria", "manutenção", "manutencao", "maintenance", "anualidade", "anuidade", "taxa de serviço"],
+      "categoryTerms": ["taxas", "fees", "tarifas"]
+    },
+    {
+      "keywords": ["empréstimo", "emprestimo", "loan", "loans", "préstamo", "prestamos", "financiamento", "parcelamento", "parcela", "installment", "consórcio", "consorcio", "consortium", "credito", "crédito", "credit", "financing"],
+      "categoryTerms": ["empréstimo", "emprestimo", "loans", "préstamos", "prestamos"]
+    },
+    {
+      "keywords": ["presente", "gift", "regalo", "present", "aniversário", "aniversario", "birthday", "cumpleaños", "natal", "christmas", "navidad", "dia das mães", "dia dos pais", "noivado", "casamento", "wedding"],
+      "categoryTerms": ["presente", "gift", "regalo"]
+    },
+    {
+      "keywords": ["dízimo", "dizimo", "tithe", "diezmo", "oferta", "igreja", "church", "iglesia", "templo", "congregação", "congregacao", "paróquia", "paroquia"],
+      "categoryTerms": ["dízimo", "dizimo", "tithe", "diezmo"]
+    },
+    {
+      "keywords": ["doação", "doacao", "donation", "donación", "donacion", "ong", "causa", "vakinha", "apoia.se", "crowdfunding", "financiamento coletivo", "unicef", "cruz vermelha", "médicos sem fronteiras"],
+      "categoryTerms": ["doação", "doacao", "donation", "donación", "donacion"]
+    },
+    {
+      "keywords": ["salão", "salao", "barbearia", "cabeleireiro", "cabelo", "manicure", "pedicure", "unha", "beleza", "beauty", "belleza", "estética", "estetica", "spa", "derma", "depilação", "depilacao", "maquiagem", "cosmético"],
+      "categoryTerms": ["salão", "salao", "beauty", "belleza"]
+    },
+    {
+      "keywords": ["pet", "pet shop", "petshop", "petlove", "petz", "cobasi", "ração", "racao", "pet food", "veterinário", "veterinario", "mascota", "mascotas", "perro", "gato", "cat", "dog"],
+      "categoryTerms": ["pet", "mascotas"]
+    },
+    {
+      "keywords": ["vestuário", "vestuario", "clothing", "ropa", "roupa", "renner", "riachuelo", "c&a", "marisa", "lelis", "shein", "zara", "h&m", "nike", "adidas"],
+      "categoryTerms": ["vestuário", "vestuario", "clothing", "ropa"]
+    },
+    {
+      "keywords": ["móveis", "moveis", "furniture", "muebles", "movel", "madeira", "decoração", "decoracao", "decoration"],
+      "categoryTerms": ["móveis", "moveis", "furniture", "muebles"]
+    },
+    {
+      "keywords": ["construção", "construcao", "construction", "construcción", "reforma", "obra", "material de construção", "leroy merlin", "telhanorte", "casa show"],
+      "categoryTerms": ["construção", "construcao", "construction", "construcción", "construccion"]
+    },
+    {
+      "keywords": ["boleto", "pagamento de conta", "débito automático", "debito automatico", "cobrança", "cobranca", "bill", "pagamento", "payment", "pago"],
+      "categoryTerms": ["pagamento", "payment", "pago"]
+    },
+    {
+      "keywords": ["diversos", "sundry", "misc", "outros", "other", "otro"],
+      "categoryTerms": ["outros", "other", "otro"]
+    }
+  ],
+  "income": [
+    {
+      "keywords": ["salário", "salario", "folha", "pagamento", "fgts", "salary", "wages", "payroll", "proventos", "rendimentos", "empresa", "employer", "patrão", "patrao"],
+      "categoryTerms": ["salário", "salario", "salary"]
+    },
+    {
+      "keywords": ["venda", "sale", "venta", "vendas", "sales", "ventas", "mercado livre", "shopee", "ebay", "marketplace", "receita", "revenue", "ingresos"],
+      "categoryTerms": ["vendas", "sale", "venta"]
+    },
+    {
+      "keywords": ["rendimento", "yield", "rendimiento", "dividendos", "juros", "cdb", "lci", "lca", "tesouro", "renda fixa", "dividend", "interest", "interés"],
+      "categoryTerms": ["rendimento", "yield", "rendimiento"]
+    },
+    {
+      "keywords": ["cashback", "reembolso", "refund", "devolução", "devolucao"],
+      "categoryTerms": ["cashback", "reembolso"]
+    },
+    {
+      "keywords": ["investimento", "investment", "inversión", "inversion", "aplicação", "aplicacao", "resgate", "xp", "rico", "clear", "btg", "nubank invest", "mercado bitcoin", "binance", "coinbase"],
+      "categoryTerms": ["investimento", "investment", "inversión", "inversion"]
+    },
+    {
+      "keywords": ["empréstimo recebido", "emprestimo recebido", "lending", "prestamo", "devolução"],
+      "categoryTerms": ["empréstimo", "emprestimo", "lending", "prestamo", "prestamos"]
+    },
+    {
+      "keywords": ["ajuda", "help", "ayuda", "auxílio", "auxilio", "bolsa", "scholarship", "beca"],
+      "categoryTerms": ["ajuda", "help", "ayuda"]
+    },
+    {
+      "keywords": ["presente recebido", "gift received", "regalo recibido"],
+      "categoryTerms": ["presente", "gift", "regalo"]
+    },
+    {
+      "keywords": ["cripto", "crypto", "bitcoin", "ethereum", "criptomoeda", "criptomoneda", "cryptocurrency"],
+      "categoryTerms": ["criptomoeda", "cryptocurrency", "criptomoneda"]
+    },
+    {
+      "keywords": ["prêmio", "premio", "award", "bonificação", "bonificacao", "bônus", "bonus"],
+      "categoryTerms": ["prêmio", "premio", "award"]
+    },
+    {
+      "keywords": ["pix recebido", "ted recebido", "transferência recebida", "transfer received", "transferencia recibida", "pix", "ted", "doc recebido"],
+      "categoryTerms": ["outros", "other", "otro"]
+    }
+  ]
+}
