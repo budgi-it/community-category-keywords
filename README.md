@@ -33,7 +33,7 @@ Cada mapeamento: `keywords` (termos no extrato) → `categoryTerms` (nomes das c
 ### Baixar
 
 ```bash
-curl -O https://raw.githubusercontent.com/budgi/community-category-keywords/main/category-keywords.json
+curl -O https://raw.githubusercontent.com/budgi-it/community-category-keywords/main/category-keywords.json
 ```
 
 ### Lógica
