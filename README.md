@@ -1,8 +1,10 @@
-# community-category-keywords 🇧🇷
+# Community Category Keywords 🇧🇷
 
 **O primeiro dataset open source de keywords para categorização automática de transações bancárias no Brasil.**
 
 Mapeamento de termos em extratos (iFood, Nubank, PIX, etc.) para categorias padrão. Compatível com Open Finance, extratos de conta e cartão de crédito.
+
+<img width="1920" height="1080" alt="cover" src="https://github.com/user-attachments/assets/e365ba43-0607-4487-8330-6e9020838078" />
 
 ---
 
@@ -21,8 +23,8 @@ O arquivo `category-keywords.json` contém:
 | `version` | Versão semântica |
 | `license` | MIT |
 | `description` | Descrição do dataset |
-| `expense` | Mapeamentos para despesas (29 categorias) |
-| `income` | Mapeamentos para receitas (11 categorias) |
+| `expense` | Mapeamentos para despesas |
+| `income` | Mapeamentos para receitas |
 
 Cada mapeamento: `keywords` (termos no extrato) → `categoryTerms` (nomes das categorias em PT/EN/ES).
 
