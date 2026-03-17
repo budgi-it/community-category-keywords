@@ -65,7 +65,10 @@
         "gourmet",
         "franguinho",
         "lanches",
-        "assado"
+        "assado",
+        "panificadora",
+        "sushi",
+        "sorveteria"
       ],
       "categoryTerms": ["alimentação", "alimentacao", "food", "comida"]
     },
@@ -235,6 +238,7 @@
     {
       "keywords": [
         "supermercado",
+        "supermercados",
         "extra",
         "pao de acucar",
         "carrefour",
@@ -251,7 +255,6 @@
         "condor",
         "super",
         "supermarket",
-        "supermercado",
         "mercado",
         "grocery",
         "grupão",
@@ -263,7 +266,8 @@
         "formato",
         "prezunic",
         "hiper",
-        "hipermercado"
+        "hipermercado",
+        "savegnago"
       ],
       "categoryTerms": ["supermercado", "supermarket"]
     },
@@ -476,6 +480,7 @@
         "oi",
         "tim",
         "net",
+        "nucel",
         "oi fibra",
         "vivo fibra",
         "claro fibra",
